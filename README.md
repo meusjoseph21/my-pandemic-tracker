@@ -33,3 +33,5 @@ This brought the idea of making My Pandemic Tracker. Using many technologies we 
 * Real-time updates on the infection rates of COVID-19
 * A globe the user can go around to select a specific country
 * Real-time news updates about COVID-19 from google
+
+Link: https://my-pandemic-tracker.herokuapp.com/
